@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IDE files (IntelliJ, Eclipse, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# OS hidden files
+.DS_Store
+Thumbs.db
